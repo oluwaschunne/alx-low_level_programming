@@ -1,4 +1,4 @@
-include <stdio.h>
+#include <stdio.h>
 
 /**
  * main - prints all arguments it receives.
@@ -16,4 +16,3 @@ int main(int argc, char **argv)
 
 	return (0);
 }
-
