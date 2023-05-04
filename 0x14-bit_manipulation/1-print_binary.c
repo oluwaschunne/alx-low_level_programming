@@ -20,6 +20,7 @@ unsigned long int _power(unsigned int base, unsigned int pow)
 	return (num);
 }
 
+
 /*
  * print_binary - prints the binary representation of a number
  * @n: num of prented
